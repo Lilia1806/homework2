@@ -20,6 +20,6 @@ public class Main {
                     return ("Оставайтесь дома!");
                 }
 
-        return null;
+        return "";
     }
 }
